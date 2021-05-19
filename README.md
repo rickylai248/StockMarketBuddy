@@ -11,6 +11,5 @@ bundle install
 Documentation: https://devdocs.io/coffeescript~2/
 
 Twilio Docs: https://www.twilio.com/docs
-
 https://guides.rubyonrails.org/
 https://guides.rubyonrails.org/active_record_migrations.html
