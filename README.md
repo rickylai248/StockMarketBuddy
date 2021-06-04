@@ -1,6 +1,6 @@
 # Stock Market Buddy
 
-Web SMS application written in Ruby focused on assisting in checking the selected stock prices, Prototype in progress!
+Web SMS application written in Ruby focused on assisting in checking the selected stock prices!!
 
 Inspirational Photo:
 ![image](https://raw.githubusercontent.com/mop-tracker/mop/master/doc/screenshot.png)
